@@ -3,7 +3,10 @@
 /SocialNetwork.BLL/obj/
 /SocialNetwork.DAL/bin/
 /SocialNetwork.DAL/obj/
+/SocialNetwork.DAL.Tests/bin/
+/SocialNetwork.DAL.Tests/obj/
 /SocialNetwork.PLL/bin/
 /SocialNetwork.PLL/obj/
+/SocialNetwrok.PLL.Tests/
 *.csproj
 *.json
