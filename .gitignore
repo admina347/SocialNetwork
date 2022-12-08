@@ -1,0 +1,9 @@
+/.vscode/
+/SocialNetwork.BLL/bin/
+/SocialNetwork.BLL/obj/
+/SocialNetwork.DAL/bin/
+/SocialNetwork.DAL/obj/
+/SocialNetwork.PLL/bin/
+/SocialNetwork.PLL/obj/
+*.csproj
+*.json
